@@ -5,11 +5,11 @@
 
 ## 🔸프롬프트 엔지니어링
 - 토론 주제와 MBTI를 추출하는 프롬프트 <br>
-  <img width="670" height="267" alt="image" src="https://github.com/user-attachments/assets/6fd0a2cf-f803-4a76-9cce-81700e9ea1a2" />
-
+  <img width="670" height="267" alt="image" src="https://github.com/user-attachments/assets/6fd0a2cf-f803-4a76-9cce-81700e9ea1a2" /> <br>
+→ 역할 부여와 지시사항 설정
 
 - 토론을 진행하기 위한 프롬프트
-  <img width="935" height="254" alt="image" src="https://github.com/user-attachments/assets/3f340fb1-ed4e-4f91-aa8f-16ef33348fea" />
-
+  <img width="935" height="254" alt="image" src="https://github.com/user-attachments/assets/3f340fb1-ed4e-4f91-aa8f-16ef33348fea" /> <br>
+→ 역할 부여와 지시사항 설정
 
 ## 🔸실행 결과
