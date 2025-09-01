@@ -14,3 +14,4 @@
 
 ## 🔸실행 결과
 
+<img width="1539" height="408" alt="image" src="https://github.com/user-attachments/assets/c1deefd8-78ff-46e1-be53-3e377bf8130f" />
