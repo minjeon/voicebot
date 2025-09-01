@@ -9,7 +9,7 @@
 → 구체적인 역할 부여와 규칙 설정
 
 - 토론을 진행하기 위한 프롬프트
-  <img width="1441" height="394" alt="image" src="https://github.com/user-attachments/assets/bc6c734d-b222-4b33-a363-dd642ad0ee71" /> <br>
+  <img width="958" height="371" alt="image" src="https://github.com/user-attachments/assets/25ef6ef0-b97f-42c3-8225-b15d43f70a16" /> <br>
 → 역할 부여와 응답 규칙과 토론 전략 설정
 
 ## 🔸실행 결과
